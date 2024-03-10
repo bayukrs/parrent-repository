@@ -120,4 +120,12 @@
 		</snapshotRepository>
 	</distributionManagement>
 
+	<url>https://github.com/bayukrs/parrent-repository</url>
+
+	<scm>
+		<connection>scm:git:ssh://github.com/bayukrs/parrent-repository.git</connection>
+		<developerConnection>scm:git:ssh://git@github.com/bayukrs/parrent-repository.git</developerConnection>
+		<url>https://github.com/bayukrs/parrent-repository</url>
+	</scm>
+
 </project>
