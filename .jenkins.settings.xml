@@ -9,7 +9,7 @@
                 <httpHeaders>
                     <property>
                         <name>Authorization</name>
-                        <value>Bearer e429692fcfa44ae9a131b80e02ac27c9109ad819ddce2bbf</value>
+                        <value>Bearer ${env.BAYUKRS_PACKAGECLOUD_API_TOKEN}</value>
                     </property>
                 </httpHeaders>
             </configuration>
