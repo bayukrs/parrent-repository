@@ -111,11 +111,11 @@
 	</build>
 	<distributionManagement>
 		<repository>
-			<id>ecommerce</id>
+			<id>packagecloud-bayukrs</id>
 			<url>https://packagecloud.io/bayukrs/ecommerce</url>
 		</repository>
 		<snapshotRepository>
-			<id>ecommerce</id>
+			<id>packagecloud-bayukrs</id>
 			<url>https://packagecloud.io/bayukrs/ecommerce</url>
 		</snapshotRepository>
 	</distributionManagement>
