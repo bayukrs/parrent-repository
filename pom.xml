@@ -112,11 +112,11 @@
 	<distributionManagement>
 		<repository>
 			<id>packagecloud-bayukrs</id>
-			<url>https://packagecloud.io/bayukrs/ecommerce</url>
+			<url>https://packagecloud.io/bayukrs/ecommerce/maven2</url>
 		</repository>
 		<snapshotRepository>
 			<id>packagecloud-bayukrs</id>
-			<url>https://packagecloud.io/bayukrs/ecommerce</url>
+			<url>https://packagecloud.io/bayukrs/ecommerce/maven2</url>
 		</snapshotRepository>
 	</distributionManagement>
 
